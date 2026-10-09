@@ -1,0 +1,6 @@
+components:
+  - name: ciw-sbx-01
+    runtime: python
+    target: function
+    app-test: ciw-sbx-01-test
+    app-prod: ciw-sbx-01
