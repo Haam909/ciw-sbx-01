@@ -1,0 +1,5 @@
+components:
+  - name: sdk
+    runtime: python
+    target: package
+    path: src/sdk
